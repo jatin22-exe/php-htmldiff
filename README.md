@@ -1,4 +1,4 @@
-php-htmldiff
+php-htmldiff-->Comparison between two HTML files..
 =======
 *A library for comparing two HTML files/snippets and highlighting the differences using simple HTML.*
 
